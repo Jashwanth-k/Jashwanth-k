@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jashwanth-k
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...DSA with python
+- 🌱 I’m currently learning ...Data-Structures
 - 💞️ I’m looking to collaborate on ...dsa
 - 📫 How to reach me ...email: hellodata878@gmail.com
 
